@@ -1,6 +1,6 @@
 # Andy Montalvo
 
-> I am a Full-Stack Developer skilled at writing well-designed, and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of languages such as JavaScript, TypeScript and Java.
+> I am a Full-Stack Developer skilled at writing well-designed and efficient code using current best practices. Fast learner, hard worker, and team player proficient in various languages such as JavaScript, TypeScript, and Java.
 
 ### Skills
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
